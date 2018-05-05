@@ -32,14 +32,6 @@ Model ve entities nesnelerinin Json formata cevrilebilmesi ve collection propert
 
  
 
- 
-
-Help page için xml
- 
-
-Help Page
- 
-
 
 Login İşlemleri ve Bearer Token Üretimi
 Help page ana sayfasından test login linkine tıkanır ve login giriş ekranı alt sağdaki popup butonu ile açılır.
