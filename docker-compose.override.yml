@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  Port.RestApi:
+    ports:
+      - "80"
+  la.clients:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
+
+networks:
+  default:
+    external:
+      name: nat
+

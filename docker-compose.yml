@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  Port.RestApi:
+    image: Port.RestApi
+    build:
+      context: .\Port.RestApi
+      dockerfile: Dockerfile
+
+  la.clients:
+    image: la.clients
+    build:
+      context: .
+      dockerfile: ../LA.CLIENTS/Dockerfile
+
