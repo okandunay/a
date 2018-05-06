@@ -1,0 +1,297 @@
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\ApplicationInsights.config
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\La.WEBAPI.dll.config
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\La.WEBAPI.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\La.WEBAPI.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\La.WEBAPI.pdb
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Antlr3.Runtime.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\DnsClient.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\EntityFramework.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\EntityFramework.SqlServer.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\LA.BUSINESS.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\LA.ENTITIES.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AI.Web.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Cors.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Hosting.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Security.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\MongoDB.Bson.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\MongoDB.Driver.Core.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\MongoDB.Driver.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Newtonsoft.Json.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Owin.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Buffers.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Net.Http.Formatting.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Cors.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Helpers.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Http.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Http.Owin.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Http.WebHost.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Mvc.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Optimization.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Razor.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.WebPages.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.WebPages.Razor.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\WebGrease.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Dapper.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\LA.BUSINESS.pdb
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\LA.BUSINESS.dll.config
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\LA.ENTITIES.pdb
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\LA.ENTITIES.dll.config
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\DnsClient.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\EntityFramework.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\EntityFramework.SqlServer.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Cors.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Hosting.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Security.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\MongoDB.Bson.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\MongoDB.Driver.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\MongoDB.Driver.Core.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Newtonsoft.Json.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Net.Http.Formatting.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Http.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Http.Owin.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Helpers.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Http.WebHost.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Mvc.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Optimization.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.Razor.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.WebPages.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\System.Web.WebPages.Razor.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Antlr3.Runtime.pdb
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Microsoft.AI.Web.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\bin\Dapper.xml
+D:\Okan\LA\LA - Copy\La.WEBAPI\obj\Debug\LA.WEBAPI.csprojResolveAssemblyReference.cache
+D:\Okan\LA\LA - Copy\La.WEBAPI\obj\Debug\LA.WEBAPI.csproj.CoreCompileInputs.cache
+D:\Okan\LA\LA - Copy\La.WEBAPI\obj\Debug\La.WEBAPI.dll
+D:\Okan\LA\LA - Copy\La.WEBAPI\obj\Debug\La.WEBAPI.pdb
+D:\Okan\LA\LA\La.WEBAPI\bin\ApplicationInsights.config
+D:\Okan\LA\LA\La.WEBAPI\bin\La.WEBAPI.dll.config
+D:\Okan\LA\LA\La.WEBAPI\bin\La.WEBAPI.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\La.WEBAPI.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\La.WEBAPI.pdb
+D:\Okan\LA\LA\La.WEBAPI\bin\Antlr3.Runtime.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\DnsClient.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\EntityFramework.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\EntityFramework.SqlServer.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\LA.BUSINESS.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\LA.ENTITIES.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AI.Web.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Cors.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Hosting.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Security.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\MongoDB.Bson.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\MongoDB.Driver.Core.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\MongoDB.Driver.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Newtonsoft.Json.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Owin.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Buffers.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Net.Http.Formatting.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Cors.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Helpers.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Http.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Http.Owin.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Http.WebHost.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Mvc.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Optimization.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Razor.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.WebPages.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.WebPages.Razor.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\WebGrease.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\Dapper.dll
+D:\Okan\LA\LA\La.WEBAPI\bin\LA.BUSINESS.pdb
+D:\Okan\LA\LA\La.WEBAPI\bin\LA.BUSINESS.dll.config
+D:\Okan\LA\LA\La.WEBAPI\bin\LA.ENTITIES.pdb
+D:\Okan\LA\LA\La.WEBAPI\bin\LA.ENTITIES.dll.config
+D:\Okan\LA\LA\La.WEBAPI\bin\DnsClient.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\EntityFramework.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\EntityFramework.SqlServer.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Cors.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Hosting.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Security.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\MongoDB.Bson.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\MongoDB.Driver.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\MongoDB.Driver.Core.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Newtonsoft.Json.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Net.Http.Formatting.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Http.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Http.Owin.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Helpers.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Http.WebHost.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Mvc.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Optimization.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.Razor.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.WebPages.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\System.Web.WebPages.Razor.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Antlr3.Runtime.pdb
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Microsoft.AI.Web.xml
+D:\Okan\LA\LA\La.WEBAPI\bin\Dapper.xml
+D:\Okan\LA\LA\La.WEBAPI\obj\Debug\LA.WEBAPI.csprojResolveAssemblyReference.cache
+D:\Okan\LA\LA\La.WEBAPI\obj\Debug\LA.WEBAPI.csproj.CoreCompileInputs.cache
+D:\Okan\LA\LA\La.WEBAPI\obj\Debug\La.WEBAPI.dll
+D:\Okan\LA\LA\La.WEBAPI\obj\Debug\La.WEBAPI.pdb
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\ApplicationInsights.config
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\La.WEBAPI.dll.config
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\La.WEBAPI.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\La.WEBAPI.pdb
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\LaWebApi.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Antlr3.Runtime.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\DnsClient.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\EntityFramework.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\EntityFramework.SqlServer.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\JetBrains.Annotations.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\LA.BUSINESS.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\LA.ENTITIES.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AI.Web.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.ApplicationInsights.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Cors.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Hosting.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Security.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\MongoDB.Bson.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\MongoDB.Driver.Core.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\MongoDB.Driver.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Newtonsoft.Json.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Owin.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\RabbitMQ.Client.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Buffers.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Net.Http.Formatting.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Cors.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Helpers.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Http.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Http.Owin.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Http.WebHost.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Mvc.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Optimization.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Razor.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.WebPages.Deployment.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.WebPages.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.WebPages.Razor.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\WebGrease.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Dapper.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\LA.BUSINESS.pdb
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\LA.BUSINESS.dll.config
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\LA.ENTITIES.pdb
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\LA.ENTITIES.dll.config
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\DnsClient.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\EntityFramework.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\EntityFramework.SqlServer.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\JetBrains.Annotations.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Cors.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Hosting.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Security.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\MongoDB.Bson.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\MongoDB.Driver.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\MongoDB.Driver.Core.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Newtonsoft.Json.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\RabbitMQ.Client.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Net.Http.Formatting.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Http.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Http.Owin.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Helpers.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Http.WebHost.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Mvc.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Optimization.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.Razor.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.WebPages.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.WebPages.Deployment.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\System.Web.WebPages.Razor.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Antlr3.Runtime.pdb
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.ApplicationInsights.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Microsoft.AI.Web.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\bin\Dapper.xml
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\obj\Debug\LA.WEBAPI.csprojResolveAssemblyReference.cache
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\obj\Debug\LA.WEBAPI.csproj.CoreCompileInputs.cache
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\obj\Debug\La.WEBAPI.dll
+D:\LA\Code\CaseStudy\RabbitMQ\La.WEBAPI\obj\Debug\La.WEBAPI.pdb

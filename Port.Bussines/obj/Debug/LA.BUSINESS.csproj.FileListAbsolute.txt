@@ -1,0 +1,46 @@
+D:\Okan\LA\LA\LA.BUSINESS\bin\Debug\LA.BUSINESS.dll.config
+D:\Okan\LA\LA\LA.BUSINESS\bin\Debug\LA.BUSINESS.dll
+D:\Okan\LA\LA\LA.BUSINESS\bin\Debug\LA.BUSINESS.pdb
+D:\Okan\LA\LA\LA.BUSINESS\bin\Debug\EntityFramework.dll
+D:\Okan\LA\LA\LA.BUSINESS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Okan\LA\LA\LA.BUSINESS\bin\Debug\EntityFramework.xml
+D:\Okan\LA\LA\LA.BUSINESS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Okan\LA\LA\LA.BUSINESS\obj\Debug\LA.BUSINESS.csprojResolveAssemblyReference.cache
+D:\Okan\LA\LA\LA.BUSINESS\obj\Debug\LA.BUSINESS.csproj.CoreCompileInputs.cache
+D:\Okan\LA\LA\LA.BUSINESS\obj\Debug\LA.BUSINESS.dll
+D:\Okan\LA\LA\LA.BUSINESS\obj\Debug\LA.BUSINESS.pdb
+D:\Okan\LA\LA\LA.BUSINESS\bin\Debug\Dapper.dll
+D:\Okan\LA\LA\LA.BUSINESS\bin\Debug\Dapper.FluentMap.dll
+D:\Okan\LA\LA\LA.BUSINESS\bin\Debug\Dapper.xml
+D:\Okan\LA\LA\LA.BUSINESS\bin\Debug\Dapper.FluentMap.xml
+D:\Okan\LA\LA - Copy\LA.BUSINESS\bin\Debug\LA.BUSINESS.dll.config
+D:\Okan\LA\LA - Copy\LA.BUSINESS\bin\Debug\LA.BUSINESS.dll
+D:\Okan\LA\LA - Copy\LA.BUSINESS\bin\Debug\LA.BUSINESS.pdb
+D:\Okan\LA\LA - Copy\LA.BUSINESS\bin\Debug\Dapper.dll
+D:\Okan\LA\LA - Copy\LA.BUSINESS\bin\Debug\Dapper.FluentMap.dll
+D:\Okan\LA\LA - Copy\LA.BUSINESS\bin\Debug\EntityFramework.dll
+D:\Okan\LA\LA - Copy\LA.BUSINESS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Okan\LA\LA - Copy\LA.BUSINESS\bin\Debug\Dapper.xml
+D:\Okan\LA\LA - Copy\LA.BUSINESS\bin\Debug\Dapper.FluentMap.xml
+D:\Okan\LA\LA - Copy\LA.BUSINESS\bin\Debug\EntityFramework.xml
+D:\Okan\LA\LA - Copy\LA.BUSINESS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Okan\LA\LA - Copy\LA.BUSINESS\obj\Debug\LA.BUSINESS.csproj.CoreCompileInputs.cache
+D:\Okan\LA\LA - Copy\LA.BUSINESS\obj\Debug\LA.BUSINESS.dll
+D:\Okan\LA\LA - Copy\LA.BUSINESS\obj\Debug\LA.BUSINESS.pdb
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\LA.BUSINESS.dll.config
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\LA.BUSINESS.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\LA.BUSINESS.pdb
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\Dapper.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\Dapper.FluentMap.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\EntityFramework.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\EntityFramework.SqlServer.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\JetBrains.Annotations.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\Dapper.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\Dapper.FluentMap.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\EntityFramework.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\EntityFramework.SqlServer.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\bin\Debug\JetBrains.Annotations.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\obj\Debug\LA.BUSINESS.csproj.CoreCompileInputs.cache
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\obj\Debug\LA.BUSINESS.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\obj\Debug\LA.BUSINESS.pdb
+D:\LA\Code\CaseStudy\RabbitMQ\LA.BUSINESS\obj\Debug\LA.BUSINESS.csprojResolveAssemblyReference.cache

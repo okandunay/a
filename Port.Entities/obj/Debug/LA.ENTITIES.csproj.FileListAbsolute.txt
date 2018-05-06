@@ -1,0 +1,69 @@
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\LA.ENTITIES.dll.config
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\LA.ENTITIES.dll
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\LA.ENTITIES.pdb
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\EntityFramework.dll
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\EntityFramework.xml
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+D:\Okan\LA\LA\LA.ENTITIES\obj\Debug\LA.ENTITIES.csproj.CoreCompileInputs.cache
+D:\Okan\LA\LA\LA.ENTITIES\obj\Debug\LA.ENTITIES.dll
+D:\Okan\LA\LA\LA.ENTITIES\obj\Debug\LA.ENTITIES.pdb
+D:\Okan\LA\LA\LA.ENTITIES\obj\Debug\LA.ENTITIES.csproj.GenerateResource.Cache
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\LA.ENTITIES.dll.config
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\LA.ENTITIES.dll
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\LA.ENTITIES.pdb
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\DnsClient.dll
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\EntityFramework.dll
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\MongoDB.Bson.dll
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\MongoDB.Driver.Core.dll
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\MongoDB.Driver.dll
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\System.Buffers.dll
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\DnsClient.xml
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\EntityFramework.xml
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\MongoDB.Bson.xml
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\MongoDB.Driver.xml
+D:\Okan\LA\LA - Copy\LA.ENTITIES\bin\Debug\MongoDB.Driver.Core.xml
+D:\Okan\LA\LA - Copy\LA.ENTITIES\obj\Debug\LA.ENTITIES.Migrations.OneToOne.resources
+D:\Okan\LA\LA - Copy\LA.ENTITIES\obj\Debug\LA.ENTITIES.csproj.GenerateResource.Cache
+D:\Okan\LA\LA - Copy\LA.ENTITIES\obj\Debug\LA.ENTITIES.csproj.CoreCompileInputs.cache
+D:\Okan\LA\LA - Copy\LA.ENTITIES\obj\Debug\LA.ENTITIES.dll
+D:\Okan\LA\LA - Copy\LA.ENTITIES\obj\Debug\LA.ENTITIES.pdb
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\DnsClient.dll
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\MongoDB.Bson.dll
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\MongoDB.Driver.Core.dll
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\MongoDB.Driver.dll
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\System.Buffers.dll
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\DnsClient.xml
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\MongoDB.Bson.xml
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\MongoDB.Driver.xml
+D:\Okan\LA\LA\LA.ENTITIES\bin\Debug\MongoDB.Driver.Core.xml
+D:\Okan\LA\LA\LA.ENTITIES\obj\Debug\LA.ENTITIES.Migrations.OneToOne.resources
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\LA.ENTITIES.dll.config
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\LA.ENTITIES.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\LA.ENTITIES.pdb
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\DnsClient.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\EntityFramework.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\JetBrains.Annotations.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\MongoDB.Bson.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\MongoDB.Driver.Core.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\MongoDB.Driver.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\System.Buffers.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\DnsClient.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\EntityFramework.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\JetBrains.Annotations.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\MongoDB.Bson.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\MongoDB.Driver.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\bin\Debug\MongoDB.Driver.Core.xml
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\obj\Debug\LA.ENTITIES.Migrations.OneToOne.resources
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\obj\Debug\LA.ENTITIES.csproj.GenerateResource.Cache
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\obj\Debug\LA.ENTITIES.csproj.CoreCompileInputs.cache
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\obj\Debug\LA.ENTITIES.dll
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\obj\Debug\LA.ENTITIES.pdb
+D:\LA\Code\CaseStudy\RabbitMQ\LA.ENTITIES\obj\Debug\LA.ENTITIES.csprojResolveAssemblyReference.cache

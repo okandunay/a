@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="LaModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="LaModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Port_User" EntityType="LaModel.Port_User" />
+    <EntitySet Name="Port_UserDetail" EntityType="LaModel.Port_UserDetail" />
+  </EntityContainer>
+  <EntityType Name="Port_User">
+    <Key>
+      <PropertyRef Name="pu_Id" />
+    </Key>
+    <Property Name="pu_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="pu_Name" Type="String" Nullable="true" MaxLength="50" ConcurrencyMode="Fixed" />
+    <Property Name="pu_LastName" Type="String" Nullable="true" MaxLength="50" />
+    <Property Name="pu_Email" Type="String" Nullable="false" MaxLength="50" />
+    <Property Name="pu_Password" Type="String" Nullable="false" MaxLength="128" />
+    <Property Name="pu_IsActive" Type="Boolean" Nullable="true" />
+    <Property Name="pu_Birthday" Type="DateTime" Nullable="true" />
+  </EntityType>
+  <EntityType Name="Port_UserDetail">
+    <Key>
+      <PropertyRef Name="pud_Id" />
+    </Key>
+    <Property Name="pud_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="pu_Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+  </EntityType>
+</Schema>

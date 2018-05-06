@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dapper.FluentMap</name>
+    </assembly>
+    <members>
+        <member name="T:Dapper.FluentMap.Configuration.FluentMappingConfiguration">
+            <summary>
+            <see cref="T:Dapper.FluentMap.Configuration.IMappingConfiguration"/> implementation for fluent mapping configuration.
+            </summary>
+        </member>
+        <member name="T:Dapper.FluentMap.Configuration.IMappingConfiguration">
+            <summary>
+            Contains the configuration for Dapper.FluentMap.
+            </summary>
+        </member>
+        <member name="P:Dapper.FluentMap.Configuration.IMappingConfiguration.EntityMappings">
+            <summary>
+            Gets a collection of entity mappings.
+            </summary>
+        </member>
+        <member name="M:Dapper.FluentMap.Configuration.IMappingConfiguration.Entity``1(System.Action{Dapper.FluentMap.Mapping.IEntityMappingBuilder{``0}})">
+            <summary>
+            Configures the mapping for <typeparamref name="TEntity"/>.
+            </summary>
+            <typeparam name="TEntity">The type of the entity.</typeparam>
+            <param name="action">A delegate which configures the mapping for <typeparamref name="TEntity"/>.</param>
+        </member>
+        <member name="M:Dapper.FluentMap.Configuration.IMappingConfiguration.AddMap``1(Dapper.FluentMap.Mapping.IEntityMappingBuilder{``0})">
+            <summary>
+            Adds the specified <see cref="T:Dapper.FluentMap.Mapping.IEntityMappingBuilder`1"/> instance to this configuration instance.
+            </summary>
+            <typeparam name="TEntity">The type of the entity.</typeparam>
+            <param name="entityMappingBuilder">
+            An instance of <see cref="T:Dapper.FluentMap.Mapping.IEntityMappingBuilder`1"/> which represents the mapping for <typeparamref name="TEntity"/>.
+            </param>
+        </member>
+        <member name="T:Dapper.FluentMap.FluentMapper">
+            <summary>
+            Main entry point for Dapper.FluentMap configuration.
+            </summary>
+        </member>
+        <member name="P:Dapper.FluentMap.FluentMapper.Configuration">
+            <summary>
+            Gets or sets a reference to the currently configured <see cref="T:Dapper.FluentMap.Configuration.IMappingConfiguration"/> instance.
+            </summary>
+        </member>
+        <member name="M:Dapper.FluentMap.FluentMapper.Initialize(System.Action{Dapper.FluentMap.Configuration.IMappingConfiguration})">
+            <summary>
+            Initializes Dapper.FluentMap with the specified configuration.
+            This method should be called when the application starts or when the first mapping is required.
+            </summary>
+            <param name="configure">A callback containing the configuration of Dapper.FluentMap.</param>
+        </member>
+        <member name="T:Dapper.FluentMap.Mapping.EntityMapping">
+            <summary>
+            Default <see cref="T:Dapper.FluentMap.Mapping.IEntityMapping"/> implementation.
+            </summary>
+        </member>
+        <member name="T:Dapper.FluentMap.Mapping.EntityMappingBuilder`1">
+            <summary>
+            Default <see cref="T:Dapper.FluentMap.Mapping.IEntityMappingBuilder`1"/> implementation.
+            </summary>
+        </member>
+        <member name="T:Dapper.FluentMap.Mapping.IEntityMapping">
+            <summary>
+            Defines the mapping of an entity.
+            </summary>
+        </member>
+        <member name="P:Dapper.FluentMap.Mapping.IEntityMapping.PropertyMappings">
+            <summary>
+            Gets a collection of <see cref="T:Dapper.FluentMap.Mapping.IPropertyMapping"/> instances.
+            </summary>
+        </member>
+        <member name="P:Dapper.FluentMap.Mapping.IEntityMapping.IsCaseSensitive">
+            <summary>
+            Gets or sets a value indicating this entity mapping is case-sensitive.
+            </summary>
+        </member>
+        <member name="M:Dapper.FluentMap.Mapping.IEntityMapping.Compile">
+            <summary>
+            Compiles the current <see cref="T:Dapper.FluentMap.Mapping.IEntityMapping"/> instance to a mapping 
+            between column names and <see cref="T:System.Reflection.PropertyInfo"/> instances.
+            </summary>
+            <returns>A <see cref="T:System.Collections.Generic.Dictionary`2"/> which represents the mapping.</returns>
+        </member>
+        <member name="T:Dapper.FluentMap.Mapping.IEntityMappingBuilder`1">
+            <summary>
+            Provider a builder to create <see cref="T:Dapper.FluentMap.Mapping.IEntityMapping"/> instances for <typeparamref name="TEntity"/>.
+            </summary>
+            <typeparam name="TEntity">The type of the entity.</typeparam>
+        </member>
+        <member name="P:Dapper.FluentMap.Mapping.IEntityMappingBuilder`1.EntityMapping">
+            <summary>
+            Gets a reference to the <see cref="T:Dapper.FluentMap.Mapping.IEntityMapping"/> being built.
+            </summary>
+        </member>
+        <member name="M:Dapper.FluentMap.Mapping.IEntityMappingBuilder`1.Map(System.Linq.Expressions.Expression{System.Func{`0,System.Object}})">
+            <summary>
+            Returns a <see cref="T:Dapper.FluentMap.Mapping.IPropertyMappingBuilder"/> instance to configure 
+            the mapping for the specified property of <typeparamref name="TEntity"/>.
+            </summary>
+            <param name="mapping">An epxression which represents the property to be mapped.</param>
+            <returns>A <see cref="T:Dapper.FluentMap.Mapping.IPropertyMappingBuilder"/> instance.</returns>
+        </member>
+        <member name="M:Dapper.FluentMap.Mapping.IEntityMappingBuilder`1.IsCaseSensitive(System.Boolean)">
+            <summary>
+            Specifies whether the <see cref="T:Dapper.FluentMap.Mapping.IEntityMapping"/> is case-sensitive.
+            </summary>
+        </member>
+        <member name="M:Dapper.FluentMap.Mapping.IEntityMappingBuilder`1.Build">
+            <summary>
+            Builds the <see cref="T:Dapper.FluentMap.Mapping.IEntityMapping"/> instance from this builder instance.
+            </summary>
+            <returns>A <see cref="T:Dapper.FluentMap.Mapping.IEntityMapping"/> instance.</returns>
+        </member>
+        <member name="T:Dapper.FluentMap.Mapping.IPropertyMappingBuilder">
+            <summary>
+            Provider a builder to create <see cref="T:Dapper.FluentMap.Mapping.IPropertyMapping"/> instances.
+            </summary>
+        </member>
+        <member name="P:Dapper.FluentMap.Mapping.IPropertyMappingBuilder.PropertyMapping">
+            <summary>
+            Gets a reference to the <see cref="T:Dapper.FluentMap.Mapping.IPropertyMapping"/> being built.
+            </summary>
+        </member>
+        <member name="P:Dapper.FluentMap.Mapping.IPropertyMappingBuilder.Property">
+            <summary>
+            Gets the <see cref="T:System.Reflection.PropertyInfo"/> instance associated with this builder.
+            </summary>
+        </member>
+        <member name="M:Dapper.FluentMap.Mapping.IPropertyMappingBuilder.ToColumn(System.String)">
+            <summary>
+            Specifies the column name for this property.
+            </summary>
+            <param name="columnName">The name of the column in the underlying data store.</param>
+            <returns>This <see cref="T:Dapper.FluentMap.Mapping.IPropertyMappingBuilder"/> instance.</returns>
+        </member>
+        <member name="M:Dapper.FluentMap.Mapping.IPropertyMappingBuilder.Build">
+            <summary>
+            Builds the <see cref="T:Dapper.FluentMap.Mapping.IPropertyMapping"/> instance from this builder instance.
+            </summary>
+            <returns>A <see cref="T:Dapper.FluentMap.Mapping.IPropertyMapping"/> instance.</returns>
+        </member>
+        <member name="T:Dapper.FluentMap.Mapping.PropertyMapping">
+            <summary>
+            Default <see cref="T:Dapper.FluentMap.Mapping.IPropertyMapping"/> implementation.
+            </summary>
+        </member>
+        <member name="T:Dapper.FluentMap.Mapping.PropertyMappingBuilder">
+            <summary>
+            Default <see cref="T:Dapper.FluentMap.Mapping.IPropertyMappingBuilder"/> implementation.
+            </summary>
+        </member>
+        <member name="T:Dapper.FluentMap.TypeMaps.FluentMapTypeMap`1">
+            <summary>
+            Represents a Dapper type mapping strategy using the configured entity mappings.
+            </summary>
+            <typeparam name="TEntity">The type of the entity.</typeparam>
+        </member>
+        <member name="M:Dapper.FluentMap.TypeMaps.FluentMapTypeMap`1.#ctor(System.Collections.Generic.Dictionary{System.String,System.Reflection.PropertyInfo})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Dapper.FluentMap.TypeMaps.FluentMapTypeMap`1"/> class using the specified <paramref name="mapping"/>.
+            </summary>
+            <param name="mapping">A dictionary which represents the mapping of the current entity.</param>
+        </member>
+        <member name="T:Dapper.FluentMap.TypeMaps.MultiTypeMap">
+            <summary>
+            Represents a Dapper type mapping strategy which consists of multiple strategies.
+            </summary>
+        </member>
+        <member name="M:Dapper.FluentMap.TypeMaps.MultiTypeMap.#ctor(Dapper.SqlMapper.ITypeMap[])">
+            <summary>
+            Initializes a new instance of the <see cref="T:Dapper.FluentMap.TypeMaps.MultiTypeMap"/>
+            class with the specified Dapper type mappers.
+            </summary>
+            <param name="mappers">The type mapping strategies to be used when mapping.</param>
+        </member>
+        <member name="M:Dapper.FluentMap.TypeMaps.MultiTypeMap.FindConstructor(System.String[],System.Type[])">
+            <inheritdoc />
+        </member>
+        <member name="M:Dapper.FluentMap.TypeMaps.MultiTypeMap.FindExplicitConstructor">
+            <inheritdoc />
+        </member>
+        <member name="M:Dapper.FluentMap.TypeMaps.MultiTypeMap.GetConstructorParameter(System.Reflection.ConstructorInfo,System.String)">
+            <inheritdoc />
+        </member>
+        <member name="M:Dapper.FluentMap.TypeMaps.MultiTypeMap.GetMember(System.String)">
+            <inheritdoc />
+        </member>
+        <member name="T:Dapper.FluentMap.Utils.ReflectionHelper">
+            <summary>
+            Provides helper methods for reflection operations.
+            </summary>
+        </member>
+        <member name="M:Dapper.FluentMap.Utils.ReflectionHelper.GetMemberInfo(System.Linq.Expressions.LambdaExpression)">
+            <summary>
+            Returns the <see cref="T:System.Reflection.MemberInfo"/> instance for the specified lamba expression.
+            </summary>
+            <param name="lambda">A lamba expression containing a MemberExpression.</param>
+            <returns>A MemberInfo object for the member in the specified lambda expression.</returns>
+        </member>
+    </members>
+</doc>

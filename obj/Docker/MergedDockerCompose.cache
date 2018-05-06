@@ -1,0 +1,22 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  Port.RestApi:
+    build:
+      context: D:\Okan\Git\Auth2_And_RabbitMQ\Port.RestApi
+      dockerfile: Dockerfile
+    image: Port.RestApi
+    ports:
+    - 80/tcp
+  la.clients:
+    build:
+      context: D:\Okan\Git\Auth2_And_RabbitMQ
+      dockerfile: ../LA.CLIENTS/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: la.clients
+    ports:
+    - 80/tcp
+version: '3.0'

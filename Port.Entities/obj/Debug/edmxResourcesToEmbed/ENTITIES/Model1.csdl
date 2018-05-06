@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Port_UserDetail" EntityType="Model1.Port_UserDetail" />
+    <EntitySet Name="Port_User" EntityType="Model1.Port_User" />
+    <AssociationSet Name="Port_UserPort_UserDetail" Association="Model1.Port_UserPort_UserDetail">
+      <End Role="Port_User" EntitySet="Port_User" />
+      <End Role="Port_UserDetail" EntitySet="Port_UserDetail" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Port_User">
+    <Key>
+      <PropertyRef Name="user_Id" />
+    </Key>
+    <Property Name="user_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="user_Name" Type="String" Nullable="false" MaxLength="50" />
+    <Property Name="user_LastName" Type="String" Nullable="true" MaxLength="100" />
+    <Property Name="userEmail" Type="String" Nullable="false" />
+    <NavigationProperty Name="Port_UserDetail" Relationship="Model1.Port_UserPort_UserDetail" FromRole="Port_User" ToRole="Port_UserDetail" />
+  </EntityType>
+  <EntityType Name="Port_UserDetail">
+    <Key>
+      <PropertyRef Name="userDetail_Id" />
+    </Key>
+    <Property Name="userDetail_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="None" />
+    <Property Name="UserDetail_UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="Port_User" Relationship="Model1.Port_UserPort_UserDetail" FromRole="Port_UserDetail" ToRole="Port_User" />
+  </EntityType>
+  <Association Name="Port_UserPort_UserDetail">
+    <End Type="Model1.Port_User" Role="Port_User" Multiplicity="1" />
+    <End Type="Model1.Port_UserDetail" Role="Port_UserDetail" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Port_User">
+        <PropertyRef Name="user_Id" />
+      </Principal>
+      <Dependent Role="Port_UserDetail">
+        <PropertyRef Name="UserDetail_UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
